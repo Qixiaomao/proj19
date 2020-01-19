@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
+Traceback (most recent call last):
+  File "uPyCraft.py", line 1772, in slotBurnFirmware
+  File "uPyCraft.py", line 2343, in updateFirmware
+AttributeError: 'MainWidget' object has no attribute 'bottomText'
